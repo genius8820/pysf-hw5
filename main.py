@@ -1,5 +1,5 @@
 from ex1 import func1
-from ex2 import calculation
+from ex2 import calculation2,calculation2
 from ex3 import showEmployee
 from ex4 import outer
 from ex5 import *
